@@ -42,6 +42,7 @@ def welcome():
     exit_game=False
     pygame.mixer.music.load("sound/bg1.mp3")
     pygame.mixer.music.play()
+    print("hello")
     while not exit_game:
         gameWindow.blit(welcome_img,(0,0))
         text_screen("Press SPACE BAR to Continue this Game",red,115,1)
