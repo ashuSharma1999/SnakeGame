@@ -4,7 +4,7 @@ import os
 x=pygame.init()
 pygame.mixer.init()
 
-#colors
+#colors list
 white=(255,255,255)
 red=(255,0,0)
 black=(0,0,0) 
