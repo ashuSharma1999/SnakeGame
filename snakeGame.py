@@ -153,5 +153,4 @@ def gameloop():
         clock.tick(fps)
     pygame.quit()
     quit()
-    print("thanku")
 welcome
