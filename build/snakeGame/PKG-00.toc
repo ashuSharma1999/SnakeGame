@@ -1,0 +1,52 @@
+('C:\\Users\\Ashvini '
+ 'Sharma\\Documents\\vsCode\\snake_game\\build\\snakeGame\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Ashvini '
+   'Sharma\\Documents\\vsCode\\snake_game\\build\\snakeGame\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'c:\\users\\ashvini '
+   'sharma\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('snakeGame',
+   'C:\\Users\\Ashvini Sharma\\Documents\\vsCode\\snake_game\\snakeGame.py',
+   'PYSOURCE'),
+  ('snakeGame.exe.manifest',
+   'C:\\Users\\Ashvini '
+   'Sharma\\Documents\\vsCode\\snake_game\\build\\snakeGame\\snakeGame.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])

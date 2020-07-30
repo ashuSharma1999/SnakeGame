@@ -1,9 +1,9 @@
 import pygame
 import random
 import os
-
+x=pygame.init()
 pygame.mixer.init()
-pygame.init()
+
 #colors
 white=(255,255,255)
 red=(255,0,0)
@@ -51,7 +51,7 @@ def welcome():
                 exit_game=True
             if event.type==pygame.KEYDOWN:
                 if event.key==pygame.K_SPACE:
-                     gameloop()
+                    gameloop()
         pygame.display.update()
         clock.tick(60)        
         
