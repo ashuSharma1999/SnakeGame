@@ -1,9 +1,8 @@
 import pygame
 import random
 import os
-x=pygame.init()
+pygame.init()
 pygame.mixer.init()
-
 #colors list
 white=(255,255,255)
 red=(255,0,0)
@@ -153,4 +152,4 @@ def gameloop():
         clock.tick(fps)
     pygame.quit()
     quit()
-welcome
+welcome()
